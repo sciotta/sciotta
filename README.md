@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**thiagog3/thiagog3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on something cool ;)
+- 🌱 I’m currently learning new micro front-end methods
+- 💬 Ask me about anything related to front-end architecture
+- 📫 How to reach me: @thiagosciotta
+- 😄 Pronouns: he/him/his
 
-Here are some ideas to get you started:
+### You can find me on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐦 [Twitter](https://twitter.com/thiagosciotta) <br>
+💼 [Linkedin](https://www.linkedin.com/in/sciotta/) <br>
+
+### 📕 Latest Blog Posts
+<!-- BLOG:START -->
+<!-- BLOG:END -->
