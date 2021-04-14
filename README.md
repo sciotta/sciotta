@@ -12,5 +12,4 @@
 💼 [Linkedin](https://www.linkedin.com/in/sciotta/) <br>
 
 ### 📕 Latest Blog Posts
-<!-- BLOG:START -->
-<!-- BLOG:END -->
+<!-- BLOG-POST-LIST:START --> <!-- BLOG-POST-LIST:END -->
