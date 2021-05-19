@@ -13,6 +13,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pertencimento e gratidão](https://blog.sciotta.com.br/pertencimento-e-gratidao)
 - [Fatores que fazem a diferença ao lidar com tecnologia e produto](https://blog.sciotta.com.br/tres-fatores)
 - [Segurança no front-end](https://blog.sciotta.com.br/seguranca-front-end)
 <!-- BLOG-POST-LIST:END -->
