@@ -20,4 +20,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Como subir uma aplicação React no Github Pages em menos de 5 minutos. [Projeto lojinha React]](https://www.youtube.com/watch?v=PStkVyTsnH8)
+- [2 dicas rápidas para editar HTMLs como um ninja!](https://www.youtube.com/watch?v=4xLkmGTNmZw)
+- [O Postman pode estar com os dias contados?](https://www.youtube.com/watch?v=R8ZlyHyB2Rs)
 <!-- YOUTUBE:END -->
