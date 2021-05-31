@@ -12,8 +12,12 @@
 💼 [Linkedin](https://www.linkedin.com/in/sciotta/) <br>
 
 ### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG:START -->
 - [Pertencimento e gratidão](https://blog.sciotta.com.br/pertencimento-e-gratidao)
 - [Fatores que fazem a diferença ao lidar com tecnologia e produto](https://blog.sciotta.com.br/tres-fatores)
 - [Segurança no front-end](https://blog.sciotta.com.br/seguranca-front-end)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG:END -->
+
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
