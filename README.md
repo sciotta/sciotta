@@ -13,9 +13,10 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG:START -->
-- [Pertencimento e gratidão](https://blog.sciotta.com.br/pertencimento-e-gratidao)
-- [Fatores que fazem a diferença ao lidar com tecnologia e produto](https://blog.sciotta.com.br/tres-fatores)
-- [Segurança no front-end](https://blog.sciotta.com.br/seguranca-front-end)
+- [A Magia das Viagens e Suas Lembranças Inesquecíveis](https://sciotta.com.br/blog/explorando-o-mundo)
+- [Pertencimento e gratidão](https://sciotta.com.br/blog/pertencimento-e-gratidao)
+- [Fatores que fazem a diferença ao lidar com tecnologia e produto](https://sciotta.com.br/blog/tres-fatores)
+- [Segurança no front-end](https://sciotta.com.br/blog/seguranca-front-end)
 <!-- BLOG:END -->
 
 ### 📺 Latest YouTube Videos
