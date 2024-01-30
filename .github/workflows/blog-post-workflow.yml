@@ -9,16 +9,17 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
       - uses: actions/checkout@v2
       
       - name: Get Blog Posts
-        uses: gautamkrishnar/blog-post-workflow@master
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: BLOG
           feed_list: "https://sciotta.com.br/blog/rss"
 
       - name: Get YouTube Videos
-        uses: gautamkrishnar/blog-post-workflow@master
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: YOUTUBE
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCfNbBxgDSTvcOJ3X5uD1jZQ"
