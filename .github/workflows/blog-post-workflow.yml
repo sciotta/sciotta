@@ -14,7 +14,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: BLOG
-          feed_list: "https://blog.sciotta.com.br/rss"
+          feed_list: "https://sciotta.com.br/blog/rss"
 
       - name: Get YouTube Videos
         uses: gautamkrishnar/blog-post-workflow@master
