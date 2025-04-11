@@ -13,11 +13,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG:START -->
+- [Manifesto de um Curioso Incansável](https://sciotta.com.br/blog/2025/04/10/manifesto-de-um-curioso)
 - [Desenvolvendo um App com React Native e DDD](https://sciotta.com.br/blog/react-native-ddd)
 - [Vantagens de Usar CSS-in-JS em Aplicações React](https://sciotta.com.br/blog/vantagens-css-in-js)
 - [A Magia das Viagens e Suas Lembranças Inesquecíveis](https://sciotta.com.br/blog/explorando-o-mundo)
 - [Pertencimento e gratidão](https://sciotta.com.br/blog/pertencimento-e-gratidao)
-- [Fatores que fazem a diferença ao lidar com tecnologia e produto](https://sciotta.com.br/blog/tres-fatores)
 <!-- BLOG:END -->
 
 ### 📺 Latest YouTube Videos
