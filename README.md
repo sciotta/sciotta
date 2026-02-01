@@ -13,7 +13,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG:START -->
-- [Manifesto de um Curioso Incansável](https://sciotta.com.br/blog/2025/04/10/manifesto-de-um-curioso)
+- [React Server Components na Prática](https://sciotta.com.br/blog/react-server-components)
 - [Desenvolvendo um App com React Native e DDD](https://sciotta.com.br/blog/react-native-ddd)
 - [Vantagens de Usar CSS-in-JS em Aplicações React](https://sciotta.com.br/blog/vantagens-css-in-js)
 - [A Magia das Viagens e Suas Lembranças Inesquecíveis](https://sciotta.com.br/blog/explorando-o-mundo)
