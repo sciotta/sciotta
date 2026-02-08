@@ -13,11 +13,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG:START -->
+- [Design Patterns na Prática - Guia Completo com TypeScript](https://sciotta.com.br/blog/design-patterns-guia-pratico)
 - [React Server Components na Prática](https://sciotta.com.br/blog/react-server-components)
 - [Desenvolvendo um App com React Native e DDD](https://sciotta.com.br/blog/react-native-ddd)
 - [Vantagens de Usar CSS-in-JS em Aplicações React](https://sciotta.com.br/blog/vantagens-css-in-js)
 - [A Magia das Viagens e Suas Lembranças Inesquecíveis](https://sciotta.com.br/blog/explorando-o-mundo)
-- [Pertencimento e gratidão](https://sciotta.com.br/blog/pertencimento-e-gratidao)
 <!-- BLOG:END -->
 
 ### 📺 Latest YouTube Videos
