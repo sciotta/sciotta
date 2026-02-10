@@ -18,9 +18,3 @@ jobs:
         with:
           comment_tag_name: BLOG
           feed_list: "https://sciotta.com.br/blog/rss"
-
-      - name: Get YouTube Videos
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          comment_tag_name: YOUTUBE
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCfNbBxgDSTvcOJ3X5uD1jZQ"
