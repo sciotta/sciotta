@@ -13,11 +13,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG:START -->
+- [AbortController: A API mais subestimada do JavaScript](https://sciotta.com.br/blog/abortcontroller-javascript-cancelar-qualquer-coisa)
 - [MCP Toolbox: Como dar superpoderes de dados aos seus AI Agents](https://sciotta.com.br/blog/mcp-toolbox-databases-ai-agents)
 - [Design Patterns na Prática - Guia Completo com TypeScript](https://sciotta.com.br/blog/design-patterns-guia-pratico)
 - [React Server Components na Prática](https://sciotta.com.br/blog/react-server-components)
 - [Desenvolvendo um App com React Native e DDD](https://sciotta.com.br/blog/react-native-ddd)
-- [Vantagens de Usar CSS-in-JS em Aplicações React](https://sciotta.com.br/blog/vantagens-css-in-js)
 <!-- BLOG:END -->
 
 ### 📺 Latest YouTube Videos
