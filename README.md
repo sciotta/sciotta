@@ -13,11 +13,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG:START -->
+- [Eu criei um time de IAs com personalidades diferentes — e elas conversam entre si no Slack](https://sciotta.com.br/blog/multi-agentes-ia-personalidade-openclaw)
 - [Acessibilidade não é feature: como construir componentes que funcionam pra todo mundo](https://sciotta.com.br/blog/acessibilidade-front-end-componentes-downshift)
 - [AbortController: A API mais subestimada do JavaScript](https://sciotta.com.br/blog/abortcontroller-javascript-cancelar-qualquer-coisa)
 - [MCP Toolbox: Como dar superpoderes de dados aos seus AI Agents](https://sciotta.com.br/blog/mcp-toolbox-databases-ai-agents)
 - [Design Patterns na Prática - Guia Completo com TypeScript](https://sciotta.com.br/blog/design-patterns-guia-pratico)
-- [React Server Components na Prática](https://sciotta.com.br/blog/react-server-components)
 <!-- BLOG:END -->
 
 ### 📺 Latest YouTube Videos
